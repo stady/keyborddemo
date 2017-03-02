@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="black">#000000</color>
+    
+    <color name="key_normal_color">#fafafa</color>
+    <color name="key_selected_color">#ededed</color>
+    <color name="opkey_normal_color">#e65a5a</color>
+    <color name="opkey_selected_color">#fb4747</color>
+    <color name="keyboard_bg_color">#bdbdbd</color>
+    <color name="gray">#bdbdbd</color>
+    <color name="white">#ffffff</color>
+</resources>
