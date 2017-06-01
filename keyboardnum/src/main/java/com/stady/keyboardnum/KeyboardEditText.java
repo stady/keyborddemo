@@ -295,7 +295,6 @@ public class KeyboardEditText extends EditText implements KeyboardView.OnKeyboar
 
     @Override
     public void onKey(int primaryCode, int[] keyCodes) {
-
         Editable editable = this.getText();
         int start = this.getSelectionStart();
         if (primaryCode == Keyboard.KEYCODE_DONE){
